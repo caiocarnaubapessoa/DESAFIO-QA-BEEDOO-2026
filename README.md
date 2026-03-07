@@ -15,3 +15,5 @@ O ponto de maior criticidade é o formulário de cadastro de cursos, especificam
 Falta de validação de campos obrigatórios: O sistema permite a submissão e gravação de formulários completamente em branco, gerando cards vazios na listagem.
 
 Ausência de tipagem e limites (Boundary Values): O sistema aceita a inserção de datas incoerentes e permite valores irreais (como textos ou números excessivamente longos) no campo de "Número de vagas", o que chega a causar a quebra visual (layout) da tela de listagem.
+
+Os cenários de teste foram escritos em Gherkin (BDD) para facilitar a compreensão do comportamento esperado e preparar o terreno para uma futura automação. A suíte de testes cobre o caminho feliz (fluxo principal e listagem), cenários negativos (validações de inputs, datas e campos obrigatórios) e edge cases (comportamentos inesperados que afetam a UI).
