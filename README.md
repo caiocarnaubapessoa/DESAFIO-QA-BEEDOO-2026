@@ -29,4 +29,5 @@ Adotei uma postura investigativa focada na quebra do sistema e na preservação 
 
 
 Os cenários de teste foram escritos em Gherkin (BDD) para facilitar a compreensão do comportamento esperado e preparar o terreno para uma futura automação. A suíte de testes cobre o caminho feliz (fluxo principal e listagem), cenários negativos (validações de inputs, datas e campos obrigatórios) e edge cases (comportamentos inesperados que afetam a UI).
-Link da planilha com o caso de teste: https://docs.google.com/spreadsheets/d/17WGduqvNiIJu0Hm4e-BVMU125ykbA62Qrak75KnHgh4/edit?usp=sharing
+Segue link da pasta compartilhada, contendo caso de testes, relatórios de bugs. Nessa pasta compartilha também estão os videos de bugs e do teste da aplicação.
+https://drive.google.com/drive/folders/1G3zNEKArDm6IfPgBlg1r_rky5tGOOQ0_?usp=sharing
